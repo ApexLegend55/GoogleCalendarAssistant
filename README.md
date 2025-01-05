@@ -1,4 +1,4 @@
-# Calvin: A Google Calendar Assistant
+# A Google Calendar Assistant
 
 Google Calendar LLM Assistant built with Next.js, FastAPI, and MongoDB. Assistant logic built using [Langchain](https://www.langchain.com/) and the OpenAI API. 
 
